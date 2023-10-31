@@ -1,0 +1,472 @@
+/* ==========================from 320px to 575px start============================== */
+@media (min-width:320px) and (max-width:575px){
+    
+    .banner_title {
+        font-size: 50px;
+    }
+
+    .banner_sectitle {
+        font-size: 48px;
+        line-height: 59px;
+    }
+
+    .banner_main {
+        padding: 168px 0;
+    }
+
+    .navbar-nav{
+        background: rgb(158, 138, 129);
+        padding: 10px 20px;
+        width: 196px;
+    }
+
+    #holiday {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    #holiday img{
+        width:100%;
+    }
+
+    .holiday_title {
+        font-size: 18px;
+        width: 165px;
+    }
+
+    .holiday_para {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 25px;
+        width: auto;
+        margin-bottom: 23px;
+    }
+
+    .holiday_btn {
+        margin-bottom: 50px;
+    }
+
+
+
+    #steady{
+        width: 100%;
+    }
+
+    .steady_main {
+        padding-top: 449px;
+    }
+
+
+    .steady_title {
+        width: auto;
+        font-size: 21px;
+    }
+
+    .steady_para {
+        width: auto;
+        font-size: 12px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+    #culture {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .culture_title {
+        width: auto;
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+    .culture_subtitle {
+        margin-top: -100px;
+    }
+
+    .culture_para {
+        width: auto;
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 35px;
+    }
+
+
+    .culture_btn {
+        margin-bottom: 40px;
+    }
+
+
+    #culture img{
+        width:100%;
+        margin-left:-15px;
+        margin-bottom: 80px;
+    }
+
+    .footer_title {
+        margin-top: 30px;
+        width: auto;
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
+
+    .footer_subtitle {
+        margin-bottom: 25px;
+        width: auto;
+    }
+
+    .footer_section {
+        width: auto;
+        font-size: 15px;
+        padding-top: 40px;
+        margin-left: 1px;
+    }
+
+    
+    .footer_btn {
+        margin-top: 26px;
+        padding: 10px 17px;
+        width: auto;
+        font-size: 15px;
+    }
+
+    
+    .footer_list_heading {
+        margin-left: -29px;
+        margin-top: 55px;
+    }
+
+
+    .footer_list {
+        margin-left: -29px;
+    }
+
+
+    .footer_end {
+        margin-top: 40px;
+        margin-left: 100px;
+        font-size: 18px;
+    }
+
+
+    .footer_copyright{
+        font-size: 10px;
+    }
+}
+/* ==========================from 320px to 575px end============================== */
+
+
+
+
+
+
+/* ==========================from 576px to 767px start============================== */
+@media (min-width:576px) and (max-width:767px){
+
+    .banner_title {
+        font-size: 65px;
+    }
+
+    .banner_sectitle {
+        font-size: 48px;
+        line-height: 35px;
+    }
+
+    .banner_main {
+        padding: 135px 0;
+    }
+
+    .navbar-nav{
+        background: rgb(158, 138, 129);
+        padding: 10px 20px;
+        width: 196px;
+    }
+
+    #holiday {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    #holiday img{
+        width:100%;
+    }
+
+    .holiday_title {
+        font-size: 30px;
+        width: auto;
+    }
+
+    .holiday_para {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 25px;
+        width: auto;
+        margin-bottom: 23px;
+    }
+
+    .holiday_btn {
+        margin-bottom: 50px;
+    }
+
+
+
+    #steady{
+        width: 100%;
+    }
+
+    .steady_main {
+        padding-top: 449px;
+    }
+
+
+    .steady_title {
+        width: auto;
+        font-size: 21px;
+    }
+
+    .steady_para {
+        width: auto;
+        font-size: 12px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+    #culture {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .culture_title {
+        width: auto;
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+
+    .culture_subtitle {
+        margin-top: -100px;
+    }
+
+
+    .culture_para {
+        width: auto;
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 35px;
+    }
+
+
+    .culture_btn {
+        margin-bottom: 40px;
+    }
+
+
+    #culture img{
+        width:100%;
+        margin-left:-15px;
+        margin-bottom: 80px;
+    }
+
+    .footer_title {
+        margin-top: 30px;
+        width: auto;
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
+
+    .footer_subtitle {
+        margin-bottom: 25px;
+        width: auto;
+    }
+
+    .footer_section {
+        width: auto;
+        font-size: 22px;
+        padding-top: 40px;
+        margin-left: 67px;
+    }
+
+    
+    .footer_btn {
+        margin-top: 26px;
+        padding: 14px 30px;
+        width: auto;
+        font-size: 19px;
+        margin-right: 73px;
+    }
+
+    
+    .footer_list_heading {
+        margin-top: 55px;
+    }
+
+
+    .footer_end {
+        margin-top: 40px;
+        margin-left: 215px;
+    }
+
+
+    .footer_copyright{
+        font-size: 13px;
+    }   
+}
+/* ==========================from 576px to 767px end============================== */
+
+
+
+
+
+
+/* ==========================from 768px to 991px start============================== */
+@media (min-width:768px) and (max-width:991px){
+
+    .banner_title {
+        font-size: 65px;
+    }
+
+    .banner_sectitle {
+        font-size: 48px;
+        line-height: 35px;
+    }
+
+    .banner_main {
+        padding: 135px 0;
+    }
+
+    .navbar-nav{
+        background: rgb(158, 138, 129);
+        padding: 10px 20px;
+        width: 196px;
+    }
+
+    #holiday {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    #holiday img{
+        width:100%;
+    }
+
+    .holiday_title {
+        font-size: 30px;
+        width: auto;
+    }
+
+    .holiday_para {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 25px;
+        width: auto;
+        margin-bottom: 23px;
+    }
+
+    .holiday_btn {
+        margin-bottom: 50px;
+    }
+
+
+
+    #steady{
+        width: 100%;
+    }
+
+    .steady_main {
+        padding-top: 449px;
+    }
+
+
+    .steady_title {
+        width: auto;
+        font-size: 21px;
+    }
+
+    .steady_para {
+        width: auto;
+        font-size: 12px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+
+    #culture {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .culture_title {
+        width: auto;
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+
+    .culture_subtitle {
+        margin-top: -100px;
+    }
+
+
+    .culture_para {
+        width: auto;
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 35px;
+    }
+
+
+    .culture_btn {
+        margin-bottom: 40px;
+    }
+
+
+    #culture img{
+        width:100%;
+        margin-left:-15px;
+        margin-bottom: 80px;
+    }
+
+    .footer_title {
+        margin-top: 30px;
+        width: auto;
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
+
+    .footer_subtitle {
+        margin-bottom: 25px;
+        width: auto;
+    }
+
+    .footer_section {
+        width: auto;
+        font-size: 22px;
+        padding-top: 40px;
+        margin-left: 142px;
+    }
+
+    
+    .footer_btn {
+        margin-top: 30px;
+        padding: 14px 30px;
+        width: auto;
+        font-size: 19px;
+        margin-right: 185px;
+    }
+
+    
+    .footer_list_heading {
+        margin-top: 55px;
+    }
+
+
+    .footer_end {
+        margin-top: 40px;
+        margin-left: 320px;
+    }
+
+
+    .footer_copyright{
+        font-size: 13px;
+    }   
+}
+/* ==========================from 768px to 991px end============================== */

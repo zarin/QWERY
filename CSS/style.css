@@ -1,0 +1,448 @@
+/* ==========================common css start================================ */
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background: #000000;
+
+}
+
+.container{
+    max-width:1320px;
+    margin:0 auto;
+}
+
+/* ==========================common css end================================ */
+
+/* ==========================nav bar start================================ */
+nav{
+    position: absolute !important;
+    width:100%;
+}
+.navbar_list{
+    margin-right: 60px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.navbar_list_link{
+    color:#FFFFFF;
+}
+
+.navbar_list_link:hover{
+    color:#000000;
+}
+
+.active{
+    color:#000000;
+}
+/* ==========================nav bar end================================ */
+
+
+/* ==========================banner start================================ */
+#banner{
+    background: url('../Images/bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner_main{
+    padding:462px 0;
+}
+
+.banner_subtitle{
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 7px;
+    color:#FFC178;
+    text-transform: uppercase;
+}
+
+.banner_title{
+    font-size: 96px;
+    font-weight: 700;
+    line-height: 100px;
+    color:#FFFFFF;
+}
+
+.banner_sectitle{
+    font-size: 88px;
+    font-weight: 400;
+    line-height: 100px;
+    color:#FFFFFF;
+}
+/* ==========================banner end================================ */
+
+/* ==========================holiday start================================ */
+#holiday{
+    margin-top: 286px;
+    margin-bottom: 295px;
+}
+
+.holiday_text{
+    margin-top: 78px;
+    margin-left: 23px;
+}
+
+.holiday_subtitle{
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 6px;
+    color:#FBD784;
+    text-transform: uppercase;
+    /* margin-left:23px; */
+}
+
+.holiday_title{
+    font-size: 64px;
+    font-weight: 700;
+    color:#FFFFFF;
+    text-transform: uppercase;
+    width:496px;
+    margin-top: 13px;
+    /* margin-left:23px; */
+}
+
+.holiday_para{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 32px;
+    color:#FFFFFF;
+    text-transform: uppercase;
+    width:587px;
+    margin-top: 13px;
+    /* margin-left:23px; */
+    margin-bottom: 66px;
+}
+
+.holiday_btn{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    color:#FBD784;
+    text-transform: uppercase;
+    width:106px;
+    /* margin-left:23px; */
+}
+
+/* ==========================holiday end================================ */
+
+
+
+/* ==========================steady start================================ */
+#steady{
+    background: url('../Images/steady.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.steady_main{
+    padding-top:559px;
+    padding-bottom: 33px;
+    text-align: center;
+}
+
+.steady_subtitle{
+    color:#FBD784;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    margin-bottom: 13px;
+}
+
+.steady_title{
+    margin:0 auto;
+    width:932px;
+    color:#FFFFFF;
+    font-size: 64px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+}
+
+
+.steady_para{
+    margin:0 auto;
+    width:893px;
+    color:#FFFFFF;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 32px;
+    text-transform: uppercase;
+    margin-bottom: 26px;
+}
+
+
+.steady_btn{
+    display: inline-block;
+    text-decoration: none;
+    color:#FBD784;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+/* ==========================steady end================================ */
+
+
+
+/* ==========================culture start================================ */
+#culture{
+    margin-top:295px;
+    margin-bottom: 190px;
+}
+
+.culture_text{
+    margin-top: 151px;
+}
+
+.culture_subtitle{
+    font-size: 18px;
+    font-weight: 700;
+    color:#FBD784;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    margin-bottom: 19px;
+}
+
+.culture_title{
+    width:663px;
+    font-size: 64px;
+    font-weight: 700;
+    color:#FFFFFF;
+    text-transform: uppercase;
+    margin-bottom: 19px;
+}
+
+.culture_para{
+    width:655px;
+    font-size: 18px;
+    font-weight: 400;
+    color:#FFFFFF;
+    line-height: 32px;
+    text-transform: uppercase;
+    margin-bottom: 47px;
+}
+
+.culture_btn{
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FBD784;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.culture_right{
+    padding-left: 40px;
+}
+/* ==========================culture end================================ */
+
+
+/* ==========================footer start================================ */
+#footer{
+    margin: 30px 0;
+}
+
+.footer_title{
+    margin-top: 82px;
+    margin-bottom: 60px;
+    width:405px;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+
+.footer_subtitle{
+    margin-bottom: 34px;
+    width:135px;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: -0.2px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+
+.footer_icon1{
+    color:#FFFFFF;
+}
+
+
+.footer_icon{
+    color:#FFFFFF;
+    margin-left: 29px;
+}
+
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.footer_section{
+    width: 206px;
+    font-size:22px;
+    font-weight: 400;
+    color: #FFFFFF;
+    letter-spacing: -0.3px;
+    text-transform: uppercase;
+    padding-top: 15px;
+    margin-left: 170px;
+}
+
+.footer_btn{
+    margin-left: 27px;
+    padding:18px 67px;
+    width:232px;
+    border: none;
+    border-radius: 10px;
+    background: #FFA343;
+    color: #000000;
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+
+.footer_list_heading{
+    margin-top: 59px;
+    list-style-type: none;
+    padding-bottom: 15px;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: -0.23px;
+    color: #FFD1A0;
+    text-transform: capitalize;
+}
+
+
+.footer_list{
+    list-style-type: none;
+    padding-bottom: 9px;
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: -0.2px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+
+.footer_end{
+    margin-top: 154px;
+    margin-left: 565px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+/* .footer_section{
+    width: 206px;
+    font-size:22px;
+    font-weight: 400;
+    color: #FFFFFF;
+    letter-spacing: -0.3px;
+    text-transform: uppercase;
+    padding-top: 15px;
+
+}
+
+.footer_btn{
+    margin-left: 18px;
+    padding:18px 67px;
+    width:232px;
+    border: none;
+    border-radius: 10px;
+    background: #FFA343;
+    color: #000000;
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.footer_body{
+    margin-top:82px;
+    margin-bottom: 170px;
+}
+
+.footer_title{
+    margin-bottom: 60px;
+    width:405px;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+
+.footer_subtitle{
+    margin-bottom: 34px;
+    width:135px;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: -0.2px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+
+
+.footer_icon1{
+    color:#FFFFFF;
+}
+
+
+.footer_icon{
+    color:#FFFFFF;
+    margin-left: 29px;
+}
+
+.footer_list_heading{
+    list-style-type: none;
+    padding-bottom: 15px;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: -0.23px;
+    color: #FFD1A0;
+    text-transform: capitalize;
+}
+
+
+.footer_list{
+    list-style-type: none;
+    padding-bottom: 9px;
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: -0.2px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+
+
+.footer_end{
+    padding-left: 565px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+} */
+
+
+/* ==========================footer end================================ */
